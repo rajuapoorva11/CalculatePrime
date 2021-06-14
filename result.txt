@@ -1,0 +1,4 @@
+Given number: 77888
+Prime factor found: 2
+Prime factor found: 1217
+Time taken to find prime factors is 9 milli seconds
